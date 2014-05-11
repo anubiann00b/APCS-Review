@@ -1,4 +1,3 @@
 # Summary
 
-* [Hello World!](Hello World!.md)
-
+* [Getting Set Up](setup.md)

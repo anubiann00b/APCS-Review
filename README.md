@@ -1,4 +1,4 @@
-APCS-Review
+APCS Review
 ===========
 
 A guide to review for the AP Computer Science test.
@@ -7,4 +7,6 @@ This guide is meant for self-study, but you can use it to supplement your APCS c
 
 Each article will go over the minimum requirements for the class and then go into more detail about the subject.
 
-This project was started on May 1, 5 days from this year's APCS test. However, I still am going to start this to hopefully help future APCS students as well.
+There may also be articles that go beyond the scope of APCS and into advanced Java, or even into Git.
+
+This project was started at the time of the 2014 AP tests, but hopefully it will help people next year.
